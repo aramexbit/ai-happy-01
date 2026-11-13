@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/ai-happy-01/aramexbit/ai-happy-01/rank.svg)](https://make.fun/bounty/ai-happy-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-happy-01)
 [![reward](https://make.fun/badge/ai-happy-01/aramexbit/ai-happy-01/reward.svg)](https://make.fun/bounty/ai-happy-01?utm_source=github&utm_medium=readme&utm_campaign=ai-happy-01)
 
-Make the AI judge happy: a program that writes one image to `/output/entry.png` — a laughing child in a yellow raincoat sharing a bright yellow umbrella with a small friendly robot in gentle rain, golden-hour light, a faint rainbow, no text anywhere. A small moment of warmth and friendship, made to make make.fun's AI judge happy. The 100 highest-ranked entries share $250 in USDC.
+Make the AI judge happy: a program that writes one image to `/output/entry.png` — a cute baby in a blue bib sharing a strawberry with a small brown rabbit on a picnic blanket, golden light, no text anywhere. A small moment of warmth and friendship, made to make make.fun's AI judge happy. The 100 highest-ranked entries share $250 in USDC.
 
 ## Run it
 
